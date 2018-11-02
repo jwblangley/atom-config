@@ -1,0 +1,12 @@
+# Package
+# color-picker
+# by thomaslindstrom
+
+# Package
+# minimap
+# by atom-minimap
+
+'atom-text-editor':
+  'ctrl-shift-b': 'editor:auto-indent'
+  'ctrl-shift-l': 'editor:split-selections-into-lines'
+  'ctrl-shift-a': 'command-palette:toggle'
