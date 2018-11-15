@@ -6,6 +6,11 @@
 # minimap
 # by atom-minimap
 
+# Package
+# atom-increment
+# by norben
+# disable Strings of same size option in settings
+
 'atom-text-editor':
   'ctrl-shift-b': 'editor:auto-indent'
   'ctrl-shift-l': 'editor:split-selections-into-lines'
