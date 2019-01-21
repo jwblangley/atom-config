@@ -1,0 +1,4 @@
+atom-increment@0.3.4
+color-picker@2.3.0
+minimap@4.29.9
+
