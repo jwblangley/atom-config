@@ -15,3 +15,7 @@
   'ctrl-alt-c': 'abort!'
   'ctrl-shift-l ctrl-shift-b': 'latex:build'
   'ctrl-shift-l ctrl-shift-c': 'latex:clean'
+
+  # atom-increment preferences
+  'ctrl-shift-i': 'atom-increment:incNumber'
+  'ctrl-shift-j': 'atom-increment:incString'
