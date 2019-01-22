@@ -1,4 +1,17 @@
+# For packages use the exact pacakge name. For the command, use the command palette to help
+
 'atom-text-editor':
+  # Built in preferences
   'ctrl-shift-b': 'editor:auto-indent'
   'ctrl-shift-l': 'editor:split-selections-into-lines'
   'ctrl-shift-a': 'command-palette:toggle'
+
+  # color-picker preferences
+  'ctrl-shift-c': 'color-picker:open'
+  'ctrl-alt-c': 'abort!'
+
+  # latex preferences
+  'ctrl-alt-b': 'abort!'
+  'ctrl-alt-c': 'abort!'
+  'ctrl-shift-l ctrl-shift-b': 'latex:build'
+  'ctrl-shift-l ctrl-shift-c': 'latex:clean'
