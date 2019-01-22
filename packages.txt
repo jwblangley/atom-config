@@ -1,4 +1,6 @@
 atom-increment@0.3.4
 color-picker@2.3.0
+language-latex@1.2.0
+latex@0.50.2
 minimap@4.29.9
 

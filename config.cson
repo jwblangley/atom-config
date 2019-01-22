@@ -7,5 +7,10 @@
     telemetryConsent: "no"
   "exception-reporting":
     userId: "55c37390-a77c-4dcb-a83b-769edda351af"
+  latex:
+    buildOnSave: true
+    openResultAfterBuild: false
+    openResultInBackground: false
+    opener: "xdg-open"
   welcome:
     showOnStartup: false
