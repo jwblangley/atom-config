@@ -22,3 +22,5 @@ apm install --packages-file packages.txt
 ```
 
 Then restart atom (not strictly necessary).
+
+Any changes should be added and committed to this repository to stay up to date
