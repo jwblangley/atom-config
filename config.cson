@@ -1,5 +1,6 @@
 "*":
   "atom-increment":
+    incValue: 1
     stringsOfSameSize: false
   "color-picker":
     abbreviateValues: false
