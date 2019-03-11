@@ -9,6 +9,8 @@
       "atom-increment"
     ]
     telemetryConsent: "no"
+  editor:
+    tabType: "soft"
   "exception-reporting":
     userId: "55c37390-a77c-4dcb-a83b-769edda351af"
   latex:
