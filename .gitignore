@@ -1,0 +1,11 @@
+# Ignore everything
+
+*
+
+# except
+
+!README.md
+!config.cson
+!keymap.cson
+!packages.txt
+!.gitignore
