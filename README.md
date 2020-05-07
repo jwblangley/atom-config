@@ -1,6 +1,7 @@
 This configuration repository will configure atom to my preferences, including all settings (including those of installed packages), packages and keymaps.
 
 # Usage
+First install [atom](https://atom.io/)
 
 Please note that all commands are written for a linux environment, but the vast majority will be consistent with other environments.
 
